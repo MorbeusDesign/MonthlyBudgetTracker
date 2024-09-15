@@ -147,5 +147,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ___
-
+If you want to contribute, feel free to do it at => 
 <a href="https://www.buymeacoffee.com/Morbeus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
