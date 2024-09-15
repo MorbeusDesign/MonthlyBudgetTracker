@@ -141,7 +141,7 @@ function validatePositiveInput(input) {
    - **Usage:** This function is called in the `oninput` event of income and expense fields, ensuring that users enter valid positive numbers.
 
 ## Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page for ideas on what to work on or to report bugs.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/MorbeusDesign/MonthlyBudgetTracker/issues) for ideas on what to work on or to report bugs.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
