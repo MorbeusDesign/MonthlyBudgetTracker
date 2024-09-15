@@ -3,7 +3,7 @@
 The **Monthly Budget Tracker** is a beginner-friendly web application that provides a practical way for new JavaScript developers to learn and apply fundamental coding concepts. This project allows users to manage their monthly budget by tracking income, expenses, and overall balance. It is a great starting point for those who are new to JavaScript and want to gain hands-on experience with key features like DOM manipulation, event handling, and basic data structures.
 
 <div align="center">
-<img  src="https://github.com/MorbeusDesign/LottoNumbersGenerator/blob/main/lotto49.png" width="600"  alt = 'Desktop Screenshot' />
+<img  src="https://github.com/MorbeusDesign/MonthlyBudgetTracker/blob/main/screenshot1.JPG" width="600"  alt = 'Desktop Screenshot' />
 </div>
 
 ### Why This Program is Great for Beginners
