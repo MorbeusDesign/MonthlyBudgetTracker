@@ -44,7 +44,7 @@ cd monthly-budget-tracker
 - **HTML:** For structuring the application layout and input forms.
 - **CSS:** For styling the application and making it responsive across different devices.
 - **JavaScript:** For adding interactivity, handling user input, performing calculations, and updating the DOM dynamically.
-- 
+
 ## Step-by-Step Explanation of the JavaScript Code
 
 Below is a detailed breakdown of the JavaScript code used in the Monthly Budget Tracker program:
