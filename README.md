@@ -4,6 +4,7 @@ The **Monthly Budget Tracker** is a beginner-friendly web application that provi
 
 <div align="center">
 <img  src="https://github.com/MorbeusDesign/MonthlyBudgetTracker/blob/main/screenshot1.JPG" width="600"  alt = 'Desktop Screenshot' />
+<img src="https://github.com/MorbeusDesign/MonthlyBudgetTracker/blob/main/screenshot2.JPG" width="600"  alt = 'Desktop Screenshot' />
 </div>
 
 ### Why This Program is Great for Beginners
