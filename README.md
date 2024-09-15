@@ -145,6 +145,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Morbeus){:target="_blank"}
 
 
+<a href="https://www.buymeacoffee.com/Morbeus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
